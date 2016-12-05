@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"PowerPoint Presentation","author":"Robert Wilbur","fileName":"Wilbur_Robert_option2.pdf","bounds":[[1466,825]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
