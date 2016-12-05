@@ -1,2 +1,0 @@
-# RWilbur.github.io
-publishing
